@@ -1,7 +1,7 @@
 ### Hi! I'm Ozcan 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
-![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
+![](https://visitor-badge.glitch.me/badge?page_id=ozcan19.ozcan19)
+![GitHub top language](https://img.shields.io/github/languages/top/ozcan19/ozcan19-assistant?style=plastic)
 
 <a href="https://www.linkedin.com/in/ozcan-yildiz-6154a7244/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
