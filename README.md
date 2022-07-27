@@ -52,7 +52,7 @@
 - :thinking_face: I'm looking for help with statistics ;
 - :speech_balloon: Ask me about: Python and Web development;
 - :zap:️ Fun-Fact: lots of fun facts;
-- :mailbox: How to reach me: [Contact](aaron@clarusway.com)
+- :mailbox: How to reach me: [Contact](ozcanyildizlar.com)
 
  
 <br />
