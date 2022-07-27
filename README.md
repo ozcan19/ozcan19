@@ -46,13 +46,13 @@
 
 **Personal Stuffs:**
 
-- :male-technologist::skin-tone-4: I'm currently working on  Solution Architect ;
+- :male-technologist: I'm currently working on  Solution Architect ;
 - :seedling: I'm currently learning Everything; 
 - :dancers: I'm looking to collaborate.... ;
 - :thinking_face: I'm looking for help with statistics ;
 - :speech_balloon: Ask me about: Python and Web development;
 - :zap:️ Fun-Fact: lots of fun facts;
-- :mailbox: How to reach me: [Contact](ozcanyildizlar.com)
+- :mailbox: How to reach me: [Contact](ozcanyildizlar@gmail.com)
 
  
 <br />
