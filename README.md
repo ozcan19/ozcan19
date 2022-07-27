@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Ozcan 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ysnz.ysnz)
 ![GitHub top language](https://img.shields.io/github/languages/top/ysnz/ysnz-assistant?style=plastic)
