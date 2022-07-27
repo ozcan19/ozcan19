@@ -46,7 +46,7 @@
 
 **Personal Stuffs:**
 
-- :male-technologist: I'm currently working on  Solution Architect ;
+- I'm currently working on  Solution Architect ;
 - :seedling: I'm currently learning Everything; 
 - :dancers: I'm looking to collaborate.... ;
 - :thinking_face: I'm looking for help with statistics ;
