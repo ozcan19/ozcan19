@@ -50,7 +50,7 @@
 - :seedling: I'm currently learning Everything; 
 - :dancers: I'm looking to collaborate.... ;
 - I'm looking for help with statistics ;
-- :speech_balloon: Ask me about: Python and Web development;
+- :speech_balloon: Ask me about: Python and AWS;
 - :zap:️ Fun-Fact: lots of fun facts;
 - :mailbox: How to reach me: [Contact](ozcanyildizlar@gmail.com)
 
